@@ -1,0 +1,37 @@
+﻿body {
+    background-color: lightpink
+}
+
+
+h1, h2, h3{
+    text-align:center;
+}
+
+.topPanel {
+    position: absolute;
+    left: 2%;
+    right: 2%;
+    top: 2%;
+    width: 96%;
+    height: 20%;
+    background-color: lightcyan;
+    color: darkblue;
+    border-radius: 20px;
+}
+
+.auto-style1 {
+    text-align: center;
+    border-radius: 20px;
+}
+
+.centerPanel {
+    position: absolute;
+    left: 2%;
+    right: 2%;
+    top: 24%;
+    width: 96%;
+    height: 100%;
+    background-color: white;
+    color: darkblue;
+    border-radius: 20px;
+}
